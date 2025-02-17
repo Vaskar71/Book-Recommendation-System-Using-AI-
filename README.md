@@ -1,4 +1,4 @@
-# Project: ML Based Book Recommender System ! | Collaborative Filtering Based
+# ML Based Book Recommender System | Collaborative Filtering Based
 
 <img src="templates/intro.jpeg" alt="workflow" width="70%">
 
