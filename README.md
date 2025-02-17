@@ -1,4 +1,4 @@
-# ML Based Book Recommender System | Collaborative Filtering Based
+# AI Based Book Recommender System | Collaborative Filtering Based
 
 <img src="templates/intro.jpeg" alt="workflow" width="70%">
 
